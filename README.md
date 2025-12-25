@@ -77,18 +77,10 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Amr546214&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="Amr's GitHub stats"
-    height="180"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amr546214&show_icons=true&theme=tokyonight" />
 
-  <!-- Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr546214&layout=compact&theme=tokyonight&langs_count=8"
-    alt="Top Languages"
-    height="180"
-  />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amr546214&layout=compact&theme=tokyonight" />
+
 
 </div>
 
