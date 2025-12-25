@@ -1,4 +1,4 @@
-ر<div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="120" />
 
