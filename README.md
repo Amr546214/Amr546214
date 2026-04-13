@@ -22,7 +22,7 @@ Building production-ready, responsive web applications with clean architecture a
 - 🔔 Browser Notifications & dynamic UI updates  
 - 🎯 Focused on performance, clean structure & maintainable code  
 
-Currently seeking **Junior / Remote Frontend roles**.
+👉 Currently seeking **Junior / Remote Frontend roles**
 
 ---
 
@@ -49,12 +49,13 @@ Currently seeking **Junior / Remote Frontend roles**.
 
 ### 🌙 Ramadan React App
 A full React application including:
-- Quiz system
-- Prayer Times API integration
-- Next prayer detection
-- Live clock
-- Azkar counter
-- Browser Notifications
+
+- Quiz system  
+- Prayer Times API integration  
+- Next prayer detection  
+- Live clock  
+- Azkar counter  
+- Browser Notifications  
 
 🔗 Repo: https://github.com/Amr546214/Ramadan-app
 
@@ -62,13 +63,13 @@ A full React application including:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amr546214&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amr546214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr546214&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr546214&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-</div>
+</p>
 
 ---
 
@@ -84,13 +85,13 @@ A full React application including:
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/ِِamr-okasha
-- 💻 GitHub: https://github.com/Amr546214
+- 💼 LinkedIn: https://linkedin.com/in/amr-okasha  
+- 💻 GitHub: https://github.com/Amr546214  
 
 ---
 
 <div align="center">
 
-⚡ Clean Code • Scalable UI • Performance First
+⚡ Clean Code • Scalable UI • Performance First ⚡
 
 </div>
