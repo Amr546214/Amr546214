@@ -45,22 +45,6 @@ Building production-ready, responsive web applications with clean architecture a
 
 ---
 
-## 📌 Featured Project
-
-### 🌙 Ramadan React App
-A full React application including:
-
-- Quiz system  
-- Prayer Times API integration  
-- Next prayer detection  
-- Live clock  
-- Azkar counter  
-- Browser Notifications  
-
-🔗 Repo: https://github.com/Amr546214/Ramadan-app
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
