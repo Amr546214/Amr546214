@@ -69,7 +69,7 @@ Building production-ready, responsive web applications with clean architecture a
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/amr-okasha  
+- 💼 LinkedIn: www.linkedin.com/in/ِِamr-okasha
 - 💻 GitHub: https://github.com/Amr546214  
 
 ---
