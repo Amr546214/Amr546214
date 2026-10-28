@@ -1,6 +1,6 @@
 {
   "asOf": "2026-10-28",
-  "source": "GitHub public repository search user:Amr546214 and per-repository REST metadata",
+  "source": "GitHub REST: repos/{repo}/languages for public, non-fork repositories of Amr546214 (profile repo excluded); counts via gh repo list",
   "publicRepositories": 13,
   "totalStars": 8,
   "primaryLanguages": 4,
@@ -83,5 +83,16 @@
       "stars": 0,
       "fork": false
     }
-  ]
+  ],
+  "languagesBytes": {
+    "TypeScript": 14511521,
+    "PLpgSQL": 22184,
+    "Shell": 8550,
+    "JavaScript": 1299122,
+    "Dockerfile": 1358,
+    "HTML": 4030845,
+    "CSS": 3209294,
+    "SCSS": 8723
+  },
+  "note": "Snapshot, not a live counter. Public pull-request totals are deliberately not shown: ~91% (488 of 538) belong to the WaseetAI release workflow, so they say little about individual output."
 }
