@@ -31,12 +31,10 @@ I'm **Amr Okasha**, a developer in Egypt with **2+ years of frontend experience*
 
 ## Selected work
 
-| Project | My role and what it shows | Links |
-| :--- | :--- | :--- |
-| **WaseetAI** | A services marketplace with client, provider, marketer and admin dashboards. I work on this platform with a team (team project, not solo): Angular frontend, Node.js / Express / Prisma / PostgreSQL backend, documented in both READMEs. | [Frontend](https://github.com/Amr546214/waaseetai_Front) · [Backend](https://github.com/Amr546214/waaseetai_Back) |
-| **TeamUP** | A collaboration platform with client, developer, company and admin flows (React, Vite, Tailwind, Supabase, n8n). Team project; the public page is a pre-launch preview. | [Repository](https://github.com/Amr546214/team-up) · [Preview](https://team-up-one-pink.vercel.app) |
-| **Ramadan App** | Prayer times from a public API, an azkar counter and a quiz, in Arabic RTL. A solo project. | [Repository](https://github.com/Amr546214/Ramadan-app) · [Live](https://ramadan-app-liard.vercel.app/) |
-| **Portfolio** | React + TypeScript with Supabase and Framer Motion, styled as a desktop-like interface. | [Repository](https://github.com/Amr546214/portfolio) · [Site](https://portfolio-six-beta-fsv8cxz8pj.vercel.app) |
+- **WaseetAI** — services marketplace with client, provider, marketer and admin dashboards. A team project I work on (not solo): Angular frontend, Node.js / Express / Prisma / PostgreSQL backend. [Frontend](https://github.com/Amr546214/waaseetai_Front) · [Backend](https://github.com/Amr546214/waaseetai_Back)
+- **TeamUP** — collaboration platform with client, developer, company and admin flows (React, Vite, Tailwind, Supabase, n8n). Team project; the public page is a pre-launch preview. [Repository](https://github.com/Amr546214/team-up) · [Preview](https://team-up-one-pink.vercel.app)
+- **Ramadan App** — prayer times from a public API, an azkar counter and a quiz, in Arabic RTL. Solo project. [Repository](https://github.com/Amr546214/Ramadan-app) · [Live](https://ramadan-app-liard.vercel.app/)
+- **Portfolio** — React + TypeScript with Supabase and Framer Motion, styled as a desktop-like interface. [Repository](https://github.com/Amr546214/portfolio) · [Site](https://portfolio-six-beta-fsv8cxz8pj.vercel.app)
 
 <table>
   <tr>
