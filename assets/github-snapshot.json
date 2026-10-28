@@ -1,0 +1,87 @@
+{
+  "asOf": "2026-10-28",
+  "source": "GitHub public repository search user:Amr546214 and per-repository REST metadata",
+  "publicRepositories": 13,
+  "totalStars": 8,
+  "primaryLanguages": 4,
+  "repositories": [
+    {
+      "name": "Azkar",
+      "language": "HTML",
+      "stars": 2,
+      "fork": false
+    },
+    {
+      "name": "TO_Do_List",
+      "language": "JavaScript",
+      "stars": 2,
+      "fork": false
+    },
+    {
+      "name": "Lion_Gym",
+      "language": "CSS",
+      "stars": 1,
+      "fork": false
+    },
+    {
+      "name": "Ramadan-app",
+      "language": "JavaScript",
+      "stars": 1,
+      "fork": false
+    },
+    {
+      "name": "team-up",
+      "language": "JavaScript",
+      "stars": 1,
+      "fork": false
+    },
+    {
+      "name": "calculator",
+      "language": "HTML",
+      "stars": 1,
+      "fork": false
+    },
+    {
+      "name": "portfolio",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "waaseetai_Front",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Amr546214",
+      "language": null,
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "waaseetai_Back",
+      "language": "TypeScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "E-Commerce",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Admin-Dashboard",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Split-calculator",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false
+    }
+  ]
+}
