@@ -1,6 +1,6 @@
 <div align="center">
 
-![Amr Okasha — Frontend craft. Full-stack thinking.](assets/profile-hero.svg)
+![Amr Okasha — Frontend craft. Full-stack thinking.](assets/profile-hero-v2.svg)
 
 **Frontend Developer · Building across the stack**
 
@@ -45,13 +45,12 @@ These are areas of hands-on experience, not a claim of equal depth in every tool
 
 ## GitHub activity & stats
 
-<p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Amr546214&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;show=reviews,prs_merged&amp;number_format=long&amp;custom_title=Amr%27s%20GitHub%20Activity" alt="Live GitHub activity: commits, pull requests, merged pull requests, reviews, stars, issues and activity rank" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amr546214&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Languages by code size in public repositories" />
-</p>
+<table>
+  <tr>
+    <td width="56%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=Amr546214&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;show=reviews,prs_merged&amp;number_format=long&amp;custom_title=Amr%27s%20GitHub%20Activity" alt="GitHub activity, commits, pull requests, stars and rank" /></td>
+    <td width="44%" valign="top"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amr546214&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most used languages in public repositories" /></td>
+  </tr>
+</table>
 
 | Activity snapshot · 28 October 2026 | Count |
 | :--- | ---: |
