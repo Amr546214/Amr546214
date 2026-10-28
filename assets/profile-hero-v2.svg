@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Amr Okasha — Frontend craft. Full-stack thinking.</title><desc id="desc">Frontend and full-stack developer based in Egypt. React, Next.js, TypeScript and product engineering.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#17233c"/></linearGradient><linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<circle cx="1110" cy="40" r="180" fill="#6366f1" opacity=".08"/><circle cx="1000" cy="340" r="150" fill="#22d3ee" opacity=".05"/>
+<g font-family="Verdana,Arial,sans-serif"><text x="64" y="66" fill="#67e8f9" font-size="13" letter-spacing="3">AMR546214 / BUILD WITH INTENT</text>
+<text x="60" y="151" fill="#f8fafc" font-size="66" font-weight="700">Amr Okasha<tspan fill="#67e8f9">.</tspan></text>
+<text x="64" y="204" fill="url(#accent)" font-size="29" font-weight="700">Frontend craft. Full-stack thinking.</text>
+<text x="64" y="251" fill="#b6c5dc" font-size="17">Thoughtful interfaces. Connected systems. Real products.</text>
+<rect x="64" y="286" width="340" height="38" rx="19" fill="#67e8f9" fill-opacity=".09" stroke="#67e8f9" stroke-opacity=".3"/><circle cx="84" cy="305" r="4" fill="#67e8f9"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle><text x="99" y="310" fill="#d8f6ff" font-size="12" textLength="255" lengthAdjust="spacingAndGlyphs">EGYPT / REMOTE COLLABORATION</text></g>
+<g transform="translate(850 117)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="270" height="175" rx="16" stroke-opacity=".35"/><path d="M0 37H270" stroke-opacity=".25"/><circle cx="20" cy="19" r="3" fill="#67e8f9" stroke="none"/><circle cx="34" cy="19" r="3" fill="#a78bfa" stroke="none"/><path d="M80 76L51 105L80 134M190 76L219 105L190 134M148 67L122 143"/><path d="M30 175H240" stroke-dasharray="45 165"><animate attributeName="stroke-dashoffset" from="210" to="0" dur="7s" repeatCount="indefinite"/></path></g>
+</svg>
