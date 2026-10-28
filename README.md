@@ -43,22 +43,28 @@ These are areas of hands-on experience, not a claim of equal depth in every tool
 
 *Project descriptions reflect the public repositories. WaseetAI is team work; the links do not imply sole authorship.*
 
-## GitHub, in context
+## GitHub activity & stats
 
-[![Public GitHub snapshot: 13 repositories, 8 stars, 4 primary languages](assets/github-snapshot.svg)](https://github.com/Amr546214?tab=repositories)
+<p align="center">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=Amr546214&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;show=reviews,prs_merged&amp;number_format=long&amp;custom_title=Amr%27s%20GitHub%20Activity" alt="Live GitHub activity: commits, pull requests, merged pull requests, reviews, stars, issues and activity rank" />
+</p>
 
-**Snapshot: 28 October 2026.** Counts cover the 13 public repositories returned by GitHub repository search for this account, including this profile repository. Stars are summed across those repositories. Primary languages are GitHub's repository-level classifications, not proficiency scores.
+<p align="center">
+  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amr546214&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Languages by code size in public repositories" />
+</p>
 
-[Browse repositories →](https://github.com/Amr546214?tab=repositories) &nbsp; [See the current contribution graph →](https://github.com/Amr546214#year-list-container)
+| Activity snapshot · 28 October 2026 | Count |
+| :--- | ---: |
+| Commits reported by the stats service · all-commits mode | **1,747** |
+| Pull requests | **538** |
+| Merged pull requests | **479** |
+| Stars earned across public repositories | **8** |
+| Public repositories | **13** |
+| GitHub activity rank | **B** |
 
-<details>
-<summary>How this snapshot was checked</summary>
+<sub>Cards refresh through the provider's cache. The dated table is a verified snapshot, not a live counter. Activity rank is the stats service's formula, not a professional seniority rating. Language shares describe repository code size, not skill proficiency. These cards do not claim complete private-work coverage.</sub>
 
-The figures come from public GitHub repository metadata. All 13 repositories in this snapshot are non-forks. Their primary-language breakdown is JavaScript (6), TypeScript (3), HTML (2), CSS (1), and no detected language (1). That is **four** detected primary languages; repositories without a detected language are excluded from that count.
-
-Private work is excluded. Repository counts, stars, and contribution activity are signals of public activity — they do not determine seniority or engineering ability. Raw snapshot data is available in [assets/github-snapshot.json](assets/github-snapshot.json).
-
-</details>
+[Current contributions →](https://github.com/Amr546214#year-list-container) · [Repositories →](https://github.com/Amr546214?tab=repositories) · [Stats provider & methodology →](https://github.com/stats-organization/github-stats-extended)
 
 ## Let's build something useful
 
